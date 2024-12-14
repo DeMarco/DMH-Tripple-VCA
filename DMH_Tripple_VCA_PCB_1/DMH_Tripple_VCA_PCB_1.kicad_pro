@@ -445,7 +445,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "DMH-Kosmo-5cm-PCB.kicad_pro",
+    "filename": "DMH_Tripple_VCA_PCB_1.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -639,11 +639,23 @@
     ],
     [
       "7ad2d702-dfb7-4d49-a82d-34430dd5948f",
-      "Core Circuit"
+      "VCA A"
     ],
     [
       "0cdf34b2-39cd-4d9e-981a-97cd34791509",
       "Power"
+    ],
+    [
+      "b1c4e848-8fe8-4310-abec-b04b02b54b3f",
+      "VCA B"
+    ],
+    [
+      "e5196600-83a1-4dc3-ad8c-62681c1f8ce4",
+      "VCA C"
+    ],
+    [
+      "cf2dec9f-6388-4d4b-9b45-78eb859d2e80",
+      "Mixer"
     ]
   ],
   "text_variables": {}
