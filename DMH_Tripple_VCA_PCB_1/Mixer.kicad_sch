@@ -2,7 +2,7 @@
 	(version 20231120)
 	(generator "eeschema")
 	(generator_version "8.0")
-	(uuid "b3892b41-4973-4b26-bb52-a6e688d2854e")
+	(uuid "62684d70-ebc6-457f-ac85-a8ce46dfc745")
 	(paper "A4")
 	(title_block
 		(comment 1 "PCB for 5 cm Kosmo format synthesizer module")
