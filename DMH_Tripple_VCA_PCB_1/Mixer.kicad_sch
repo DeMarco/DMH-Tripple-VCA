@@ -1081,7 +1081,7 @@
 	(symbol
 		(lib_id "Amplifier_Operational:TL074")
 		(at 76.2 88.9 0)
-		(unit 1)
+		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -1185,7 +1185,7 @@
 			(project ""
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/cf2dec9f-6388-4d4b-9b45-78eb859d2e80"
 					(reference "U2")
-					(unit 1)
+					(unit 3)
 				)
 			)
 		)

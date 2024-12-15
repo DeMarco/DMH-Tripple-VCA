@@ -2535,7 +2535,7 @@
 		(lib_id "Amplifier_Operational:TL074")
 		(at 184.15 76.2 0)
 		(mirror x)
-		(unit 3)
+		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -2638,7 +2638,7 @@
 			(project "DMH_Tripple_VCA_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/7ad2d702-dfb7-4d49-a82d-34430dd5948f"
 					(reference "U1")
-					(unit 3)
+					(unit 2)
 				)
 			)
 		)
@@ -2647,7 +2647,7 @@
 		(lib_id "Amplifier_Operational:TL074")
 		(at 87.63 152.4 0)
 		(mirror x)
-		(unit 2)
+		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -2750,7 +2750,7 @@
 			(project "DMH_Tripple_VCA_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/7ad2d702-dfb7-4d49-a82d-34430dd5948f"
 					(reference "U1")
-					(unit 2)
+					(unit 1)
 				)
 			)
 		)
