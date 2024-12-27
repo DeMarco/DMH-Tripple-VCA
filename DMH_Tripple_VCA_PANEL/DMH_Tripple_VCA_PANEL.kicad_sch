@@ -1594,7 +1594,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SynthStuff:MountingHole_LED_5mm"
+		(property "Footprint" "SynthStuff:MountingHole_LED_3mm"
 			(at 88.9 114.3 0)
 			(effects
 				(font
@@ -2126,7 +2126,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SynthStuff:MountingHole_LED_5mm"
+		(property "Footprint" "SynthStuff:MountingHole_LED_3mm"
 			(at 88.9 63.5 0)
 			(effects
 				(font
@@ -2391,7 +2391,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SynthStuff:MountingHole_LED_5mm"
+		(property "Footprint" "SynthStuff:MountingHole_LED_3mm"
 			(at 88.9 165.1 0)
 			(effects
 				(font
