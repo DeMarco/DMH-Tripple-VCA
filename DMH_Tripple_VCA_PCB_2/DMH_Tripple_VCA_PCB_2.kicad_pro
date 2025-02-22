@@ -240,7 +240,16 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      [
+        "power_pin_not_driven|1460500|558800|260212e4-90f0-46be-ae04-6d48ddb18a2a|00000000-0000-0000-0000-000000000000|/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679|/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679|",
+        ""
+      ],
+      [
+        "power_pin_not_driven|1460500|838200|63aa1c01-60c5-449c-9b34-e2ef5c894a76|00000000-0000-0000-0000-000000000000|/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679|/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679|",
+        ""
+      ]
+    ],
     "meta": {
       "version": 0
     },
@@ -660,14 +669,6 @@
     [
       "ce3fef8b-9f1d-4178-b50b-4a046c030679",
       "Inputs and Outputs"
-    ],
-    [
-      "7ad2d702-dfb7-4d49-a82d-34430dd5948f",
-      "Core Circuit"
-    ],
-    [
-      "0cdf34b2-39cd-4d9e-981a-97cd34791509",
-      "Power"
     ]
   ],
   "text_variables": {}

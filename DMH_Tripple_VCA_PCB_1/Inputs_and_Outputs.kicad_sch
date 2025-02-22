@@ -2229,12 +2229,6 @@
 		(uuid "15bbd522-e372-4ef4-a148-07d35bb641fe")
 	)
 	(junction
-		(at 163.83 82.55)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3b7e90fd-9a1e-4f2c-86af-af55a542ccf9")
-	)
-	(junction
 		(at 119.38 44.45)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2343,12 +2337,6 @@
 		(uuid "a21a73df-4a20-492a-8517-d42f10841bb6")
 	)
 	(junction
-		(at 163.83 234.95)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "addb425b-323d-4793-889c-d21d118a9857")
-	)
-	(junction
 		(at 146.05 234.95)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2384,11 +2372,17 @@
 		(color 0 0 0 0)
 		(uuid "dc5cc482-9463-408d-8d65-6f9a76b470b6")
 	)
-	(junction
-		(at 163.83 158.75)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ff7285d0-6a2b-4f25-89c5-6d954ee8090f")
+	(no_connect
+		(at 176.53 111.76)
+		(uuid "14cf2822-786d-42e4-9aaa-06f0043bac92")
+	)
+	(no_connect
+		(at 176.53 187.96)
+		(uuid "6c007262-f614-44a8-9048-1d02c1b0a427")
+	)
+	(no_connect
+		(at 176.53 35.56)
+		(uuid "6e0c38a6-c59b-49cf-9b92-f44401a3742b")
 	)
 	(wire
 		(pts
@@ -2422,7 +2416,7 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 121.92) (xy 179.07 121.92)
+			(xy 176.53 121.92) (xy 180.34 121.92)
 		)
 		(stroke
 			(width 0)
@@ -2482,7 +2476,7 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 40.64) (xy 187.96 63.5)
+			(xy 190.5 40.64) (xy 190.5 63.5)
 		)
 		(stroke
 			(width 0)
@@ -2509,16 +2503,6 @@
 			(type default)
 		)
 		(uuid "0c8df0e3-747b-4f6c-8816-0388056ad217")
-	)
-	(wire
-		(pts
-			(xy 190.5 234.95) (xy 163.83 234.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0cf535ad-70ea-47e4-93af-202779f2239d")
 	)
 	(wire
 		(pts
@@ -2592,7 +2576,7 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 72.39) (xy 187.96 71.12)
+			(xy 190.5 72.39) (xy 190.5 71.12)
 		)
 		(stroke
 			(width 0)
@@ -2682,23 +2666,13 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 60.96) (xy 179.07 67.31)
+			(xy 180.34 67.31) (xy 179.07 67.31)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "21cb85f3-a351-4511-84ae-44d5da337784")
-	)
-	(wire
-		(pts
-			(xy 176.53 111.76) (xy 190.5 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "245ad956-3053-4609-8865-351cc409645e")
+		(uuid "218fc723-18ed-41fe-b5c0-8e4f7b9383f6")
 	)
 	(wire
 		(pts
@@ -2709,6 +2683,16 @@
 			(type default)
 		)
 		(uuid "26a4b6f0-e84a-4cbf-a5ea-b4016fdb6ef5")
+	)
+	(wire
+		(pts
+			(xy 162.56 146.05) (xy 163.83 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2ac37c98-bbf8-4f0b-9ad0-3bd54cb8c126")
 	)
 	(wire
 		(pts
@@ -2742,7 +2726,7 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 146.05) (xy 163.83 158.75)
+			(xy 162.56 146.05) (xy 162.56 158.75)
 		)
 		(stroke
 			(width 0)
@@ -2752,23 +2736,13 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 82.55) (xy 163.83 82.55)
+			(xy 146.05 82.55) (xy 162.56 82.55)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "2dac135c-9a36-42d4-9540-a7e0e4c23c7f")
-	)
-	(wire
-		(pts
-			(xy 176.53 35.56) (xy 190.5 35.56)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2e51ee68-43c8-4b6c-a7ff-15d1d8cf3588")
 	)
 	(wire
 		(pts
@@ -2832,7 +2806,7 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 193.04) (xy 187.96 193.04)
+			(xy 176.53 193.04) (xy 190.5 193.04)
 		)
 		(stroke
 			(width 0)
@@ -2852,7 +2826,7 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 148.59) (xy 187.96 148.59)
+			(xy 179.07 148.59) (xy 190.5 148.59)
 		)
 		(stroke
 			(width 0)
@@ -2882,7 +2856,7 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 121.92) (xy 179.07 129.54)
+			(xy 180.34 121.92) (xy 180.34 129.54)
 		)
 		(stroke
 			(width 0)
@@ -2922,7 +2896,7 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 198.12) (xy 179.07 198.12)
+			(xy 176.53 198.12) (xy 180.34 198.12)
 		)
 		(stroke
 			(width 0)
@@ -2959,16 +2933,6 @@
 			(type default)
 		)
 		(uuid "490cfb36-88bd-4627-98e2-a46e1a121fb8")
-	)
-	(wire
-		(pts
-			(xy 190.5 82.55) (xy 163.83 82.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4ab90451-d4dc-4c76-a88a-ac14d4395f4a")
 	)
 	(wire
 		(pts
@@ -3042,7 +3006,7 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 45.72) (xy 179.07 53.34)
+			(xy 180.34 45.72) (xy 180.34 53.34)
 		)
 		(stroke
 			(width 0)
@@ -3082,7 +3046,17 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 116.84) (xy 187.96 116.84)
+			(xy 180.34 60.96) (xy 180.34 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "635b5bd7-28df-41c2-8226-1b1650307c1a")
+	)
+	(wire
+		(pts
+			(xy 176.53 116.84) (xy 190.5 116.84)
 		)
 		(stroke
 			(width 0)
@@ -3149,16 +3123,6 @@
 			(type default)
 		)
 		(uuid "6f8f283b-1f79-43d2-b9e5-2245d18c7dfd")
-	)
-	(wire
-		(pts
-			(xy 176.53 187.96) (xy 190.5 187.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7088a1f7-c52d-4871-a90f-92b22767bb83")
 	)
 	(wire
 		(pts
@@ -3232,6 +3196,16 @@
 	)
 	(wire
 		(pts
+			(xy 162.56 69.85) (xy 163.83 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7c504521-cbb3-4898-8035-423bf6dcbee0")
+	)
+	(wire
+		(pts
 			(xy 38.1 266.7) (xy 38.1 251.46)
 		)
 		(stroke
@@ -3292,16 +3266,6 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 111.76) (xy 190.5 158.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "822c1e44-a674-4027-ace7-3f5adc3017f6")
-	)
-	(wire
-		(pts
 			(xy 190.5 182.88) (xy 190.5 177.8)
 		)
 		(stroke
@@ -3312,7 +3276,7 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 215.9) (xy 187.96 193.04)
+			(xy 190.5 215.9) (xy 190.5 193.04)
 		)
 		(stroke
 			(width 0)
@@ -3342,7 +3306,7 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 69.85) (xy 163.83 82.55)
+			(xy 162.56 69.85) (xy 162.56 82.55)
 		)
 		(stroke
 			(width 0)
@@ -3382,7 +3346,7 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 40.64) (xy 187.96 40.64)
+			(xy 176.53 40.64) (xy 190.5 40.64)
 		)
 		(stroke
 			(width 0)
@@ -3419,6 +3383,16 @@
 			(type default)
 		)
 		(uuid "9506d1db-5827-4017-9637-5f78a8ff376b")
+	)
+	(wire
+		(pts
+			(xy 180.34 143.51) (xy 179.07 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "958c54b7-54a2-4433-8e6c-dca58ae4892c")
 	)
 	(wire
 		(pts
@@ -3522,7 +3496,7 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 234.95) (xy 163.83 234.95)
+			(xy 146.05 234.95) (xy 162.56 234.95)
 		)
 		(stroke
 			(width 0)
@@ -3572,7 +3546,7 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 222.25) (xy 163.83 234.95)
+			(xy 162.56 222.25) (xy 162.56 234.95)
 		)
 		(stroke
 			(width 0)
@@ -3582,7 +3556,7 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 198.12) (xy 179.07 205.74)
+			(xy 180.34 198.12) (xy 180.34 205.74)
 		)
 		(stroke
 			(width 0)
@@ -3622,7 +3596,7 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 224.79) (xy 187.96 223.52)
+			(xy 190.5 224.79) (xy 190.5 223.52)
 		)
 		(stroke
 			(width 0)
@@ -3732,7 +3706,7 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 213.36) (xy 179.07 219.71)
+			(xy 180.34 213.36) (xy 180.34 219.71)
 		)
 		(stroke
 			(width 0)
@@ -3752,7 +3726,7 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 224.79) (xy 187.96 224.79)
+			(xy 179.07 224.79) (xy 190.5 224.79)
 		)
 		(stroke
 			(width 0)
@@ -3789,6 +3763,16 @@
 			(type default)
 		)
 		(uuid "c7583a34-1f85-4d5e-a8bf-92920f80d7b0")
+	)
+	(wire
+		(pts
+			(xy 162.56 222.25) (xy 163.83 222.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c7c1a2fc-3ecc-4997-99cb-18c92c016e47")
 	)
 	(wire
 		(pts
@@ -3832,7 +3816,7 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 139.7) (xy 187.96 116.84)
+			(xy 190.5 139.7) (xy 190.5 116.84)
 		)
 		(stroke
 			(width 0)
@@ -3872,17 +3856,7 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 35.56) (xy 190.5 82.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d37f7d20-86d9-4f6f-afd4-00ca00043c4b")
-	)
-	(wire
-		(pts
-			(xy 187.96 148.59) (xy 187.96 147.32)
+			(xy 190.5 148.59) (xy 190.5 147.32)
 		)
 		(stroke
 			(width 0)
@@ -3922,7 +3896,7 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 45.72) (xy 179.07 45.72)
+			(xy 176.53 45.72) (xy 180.34 45.72)
 		)
 		(stroke
 			(width 0)
@@ -3942,13 +3916,13 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 187.96) (xy 190.5 234.95)
+			(xy 180.34 219.71) (xy 179.07 219.71)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ddde24e2-d4a5-4411-b546-46ef60ce7e0b")
+		(uuid "daa18636-6877-4706-b777-cc45791f3159")
 	)
 	(wire
 		(pts
@@ -3992,17 +3966,7 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 158.75) (xy 163.83 158.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e3fe0d58-eeb3-4e0f-ad24-b3904b29dfd3")
-	)
-	(wire
-		(pts
-			(xy 179.07 72.39) (xy 187.96 72.39)
+			(xy 179.07 72.39) (xy 190.5 72.39)
 		)
 		(stroke
 			(width 0)
@@ -4012,7 +3976,7 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 137.16) (xy 179.07 143.51)
+			(xy 180.34 137.16) (xy 180.34 143.51)
 		)
 		(stroke
 			(width 0)
@@ -4182,7 +4146,7 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 158.75) (xy 146.05 158.75)
+			(xy 162.56 158.75) (xy 146.05 158.75)
 		)
 		(stroke
 			(width 0)
@@ -4930,7 +4894,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SynthStuff:PinHeader_2x03_P2.54mm_Vertical_142536"
+		(property "Footprint" "SynthStuff:Toggle_Switch_2_Poles_THT"
 			(at 171.45 33.02 0)
 			(effects
 				(font
@@ -5020,7 +4984,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SynthStuff:PinHeader_2x03_P2.54mm_Vertical_142536"
+		(property "Footprint" "SynthStuff:Toggle_Switch_2_Poles_THT"
 			(at 171.45 185.42 0)
 			(effects
 				(font
@@ -5179,7 +5143,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 179.07 57.15 180)
+		(at 180.34 57.15 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5188,7 +5152,7 @@
 		(fields_autoplaced yes)
 		(uuid "25870ad0-8f96-48e2-a40b-8e0abb9b8f35")
 		(property "Reference" "R56"
-			(at 181.61 55.8799 0)
+			(at 182.88 55.8799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5197,7 +5161,7 @@
 			)
 		)
 		(property "Value" "220R"
-			(at 181.61 58.4199 0)
+			(at 182.88 58.4199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5206,7 +5170,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
-			(at 178.054 56.896 90)
+			(at 179.324 56.896 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5215,7 +5179,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 179.07 57.15 0)
+			(at 180.34 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5224,7 +5188,7 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 179.07 57.15 0)
+			(at 180.34 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5303,7 +5267,7 @@
 			)
 		)
 		(property "Function" "Offset B"
-			(at 158.75 152.4 0)
+			(at 157.734 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5797,7 +5761,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SynthStuff:PinHeader_2x03_P2.54mm_Vertical_142536"
+		(property "Footprint" "SynthStuff:Toggle_Switch_2_Poles_THT"
 			(at 171.45 109.22 0)
 			(effects
 				(font
@@ -6092,7 +6056,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 179.07 209.55 180)
+		(at 180.34 209.55 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6101,7 +6065,7 @@
 		(fields_autoplaced yes)
 		(uuid "67ea89c2-e0e5-4367-a4e4-e2415742a08b")
 		(property "Reference" "R60"
-			(at 181.61 208.2799 0)
+			(at 182.88 208.2799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6110,7 +6074,7 @@
 			)
 		)
 		(property "Value" "220R"
-			(at 181.61 210.8199 0)
+			(at 182.88 210.8199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6119,7 +6083,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
-			(at 178.054 209.296 90)
+			(at 179.324 209.296 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6128,7 +6092,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 179.07 209.55 0)
+			(at 180.34 209.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6137,7 +6101,7 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 179.07 209.55 0)
+			(at 180.34 209.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6431,7 +6395,7 @@
 			)
 		)
 		(property "Function" "Offset A"
-			(at 158.75 76.2 0)
+			(at 157.734 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6981,7 +6945,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 179.07 133.35 180)
+		(at 180.34 133.35 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6990,7 +6954,7 @@
 		(fields_autoplaced yes)
 		(uuid "ad1211f2-40e2-4789-a6e4-d8129a36e187")
 		(property "Reference" "R58"
-			(at 181.61 132.0799 0)
+			(at 182.88 132.0799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6999,7 +6963,7 @@
 			)
 		)
 		(property "Value" "220R"
-			(at 181.61 134.6199 0)
+			(at 182.88 134.6199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7008,7 +6972,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
-			(at 178.054 133.096 90)
+			(at 179.324 133.096 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7017,7 +6981,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 179.07 133.35 0)
+			(at 180.34 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7026,7 +6990,7 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 179.07 133.35 0)
+			(at 180.34 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7198,7 +7162,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 187.96 219.71 0)
+		(at 190.5 219.71 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7207,7 +7171,7 @@
 		(dnp no)
 		(uuid "b80db085-b1e7-401a-b37f-611a7e4fcf12")
 		(property "Reference" "R61"
-			(at 185.42 218.4399 0)
+			(at 187.96 218.4399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7216,7 +7180,7 @@
 			)
 		)
 		(property "Value" "330R"
-			(at 185.42 220.9799 0)
+			(at 187.96 220.9799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7225,7 +7189,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
-			(at 188.976 219.456 90)
+			(at 191.516 219.456 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7234,7 +7198,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 187.96 219.71 0)
+			(at 190.5 219.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7243,7 +7207,7 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 187.96 219.71 0)
+			(at 190.5 219.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7322,7 +7286,7 @@
 			)
 		)
 		(property "Function" "Offset C"
-			(at 158.75 228.6 0)
+			(at 157.988 228.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7428,7 +7392,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 187.96 67.31 0)
+		(at 190.5 67.31 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7437,7 +7401,7 @@
 		(dnp no)
 		(uuid "c4827232-b7d7-41fe-9419-801dda859fe2")
 		(property "Reference" "R57"
-			(at 185.42 66.0399 0)
+			(at 187.96 66.0399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7446,7 +7410,7 @@
 			)
 		)
 		(property "Value" "330R"
-			(at 185.42 68.5799 0)
+			(at 187.96 68.5799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7455,7 +7419,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
-			(at 188.976 67.056 90)
+			(at 191.516 67.056 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7464,7 +7428,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 187.96 67.31 0)
+			(at 190.5 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7473,7 +7437,7 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 187.96 67.31 0)
+			(at 190.5 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7866,7 +7830,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 187.96 143.51 0)
+		(at 190.5 143.51 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7875,7 +7839,7 @@
 		(dnp no)
 		(uuid "fd8ec9aa-9f43-4e22-8591-b734c8a98a56")
 		(property "Reference" "R59"
-			(at 185.42 142.2399 0)
+			(at 187.96 142.2399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7884,7 +7848,7 @@
 			)
 		)
 		(property "Value" "330R"
-			(at 185.42 144.7799 0)
+			(at 187.96 144.7799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7893,7 +7857,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
-			(at 188.976 143.256 90)
+			(at 191.516 143.256 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7902,7 +7866,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 187.96 143.51 0)
+			(at 190.5 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7911,7 +7875,7 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 187.96 143.51 0)
+			(at 190.5 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
