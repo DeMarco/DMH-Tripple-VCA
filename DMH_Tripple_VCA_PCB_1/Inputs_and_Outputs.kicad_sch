@@ -7319,9 +7319,9 @@
 		(at 120.65 223.52 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board no)
-		(dnp no)
+		(dnp yes)
 		(uuid "bc6e9bdd-578c-493a-ad84-af5782cdebd2")
 		(property "Reference" "J0"
 			(at 115.57 223.52 90)

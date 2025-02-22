@@ -286,7 +286,7 @@
 		)
 		(property ki_fp_filters "Pot_Cutout_*")
 		(path "/b632d930-3319-4757-927d-f201fbda1e4d")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "DMH_Tripple_VCA_PANEL.kicad_sch")
 		(attr through_hole exclude_from_bom)
 		(fp_line
@@ -558,7 +558,7 @@
 		)
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/ab447e37-c473-44f9-b580-278261ee12b1")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "DMH_Tripple_VCA_PANEL.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
@@ -761,7 +761,7 @@
 		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/778306f6-ceb0-4c6d-a853-d9f36c86941f")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "DMH_Tripple_VCA_PANEL.kicad_sch")
 		(attr through_hole exclude_from_bom)
 		(fp_poly
@@ -1078,7 +1078,7 @@
 		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/20d98fb5-beda-45df-8034-ff47dbc998db")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "DMH_Tripple_VCA_PANEL.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
@@ -1287,7 +1287,7 @@
 		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/81b69589-d99a-4d1f-8d1e-2cea6cc0267a")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "DMH_Tripple_VCA_PANEL.kicad_sch")
 		(attr through_hole exclude_from_bom)
 		(fp_poly
@@ -1663,7 +1663,7 @@
 		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/53f2f9d4-97d2-4bbe-ac5e-13fa6e4edc9d")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "DMH_Tripple_VCA_PANEL.kicad_sch")
 		(attr through_hole exclude_from_bom)
 		(fp_circle
@@ -1860,7 +1860,7 @@
 		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/ac43706f-851f-4bec-b3bd-1222ca33b576")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "DMH_Tripple_VCA_PANEL.kicad_sch")
 		(attr through_hole exclude_from_bom)
 		(fp_circle
@@ -2105,7 +2105,7 @@
 		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/bbdd0b1e-0a79-43cf-a292-0b8665f819d4")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "DMH_Tripple_VCA_PANEL.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
@@ -2218,7 +2218,7 @@
 		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/9ca70bf0-cae2-499b-8123-bfc6e6e06819")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "DMH_Tripple_VCA_PANEL.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
@@ -2427,7 +2427,7 @@
 		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/05d2c686-568c-4b88-bcae-9e42918a9360")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "DMH_Tripple_VCA_PANEL.kicad_sch")
 		(attr through_hole exclude_from_bom)
 		(fp_poly
@@ -2777,7 +2777,7 @@
 		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/51a4f61d-b987-4d94-af26-e5fdaa7181e7")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "DMH_Tripple_VCA_PANEL.kicad_sch")
 		(attr through_hole exclude_from_bom)
 		(fp_circle
@@ -3087,7 +3087,7 @@
 		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/8fe30245-5f1f-4804-92d6-fbf26b1c1494")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "DMH_Tripple_VCA_PANEL.kicad_sch")
 		(attr through_hole exclude_from_bom)
 		(fp_circle
@@ -3397,7 +3397,7 @@
 		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/fe4b312a-814e-4df1-85d5-acb899398541")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "DMH_Tripple_VCA_PANEL.kicad_sch")
 		(attr through_hole exclude_from_bom)
 		(fp_circle
@@ -3739,7 +3739,7 @@
 		)
 		(property ki_fp_filters "Pot_Cutout_*")
 		(path "/edd5947c-b119-4c9c-87ee-e4f5b9ecf576")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "DMH_Tripple_VCA_PANEL.kicad_sch")
 		(attr through_hole exclude_from_bom)
 		(fp_line
@@ -4070,7 +4070,7 @@
 		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/65020e8e-01da-44c2-9521-a58458fc95f1")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "DMH_Tripple_VCA_PANEL.kicad_sch")
 		(attr through_hole exclude_from_bom)
 		(fp_circle
@@ -4234,7 +4234,7 @@
 		)
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/0fdd41a5-c82a-40c3-8a4e-98f3ced84682")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "DMH_Tripple_VCA_PANEL.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
@@ -4341,7 +4341,7 @@
 		)
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/ed2400b3-24fa-4438-9c25-79e03b5de385")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "DMH_Tripple_VCA_PANEL.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
@@ -4448,7 +4448,7 @@
 		)
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/fe1cb2e3-4f6f-454a-b749-40096bc46310")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "DMH_Tripple_VCA_PANEL.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
@@ -4612,7 +4612,7 @@
 		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/ea81b223-5ffd-4bd6-9e10-434285ce08ec")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "DMH_Tripple_VCA_PANEL.kicad_sch")
 		(attr through_hole exclude_from_bom)
 		(fp_circle
@@ -4874,7 +4874,7 @@
 		)
 		(property ki_fp_filters "Pot_Cutout_*")
 		(path "/e0f29a4d-7751-4223-ba2c-b9bbeeac4fee")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "DMH_Tripple_VCA_PANEL.kicad_sch")
 		(attr through_hole exclude_from_bom)
 		(fp_line
@@ -5211,7 +5211,7 @@
 		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/c1131ab1-aded-452e-b606-b13fc5884ef3")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "DMH_Tripple_VCA_PANEL.kicad_sch")
 		(attr through_hole exclude_from_bom)
 		(fp_circle
@@ -5549,7 +5549,7 @@
 		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/cbe90273-d3b0-4b6d-b8da-406497b2d9f6")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "DMH_Tripple_VCA_PANEL.kicad_sch")
 		(attr through_hole exclude_from_bom)
 		(fp_poly
@@ -5899,7 +5899,7 @@
 		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/18d8993c-1268-4ead-8a1a-a05cb90495d9")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "DMH_Tripple_VCA_PANEL.kicad_sch")
 		(attr through_hole exclude_from_bom)
 		(fp_circle
@@ -6162,7 +6162,7 @@
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/ed5f3b92-462f-4574-b5e9-7850038d93bd")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "DMH_Tripple_VCA_PANEL.kicad_sch")
 		(zone_connect 1)
 		(attr smd exclude_from_pos_files exclude_from_bom)
