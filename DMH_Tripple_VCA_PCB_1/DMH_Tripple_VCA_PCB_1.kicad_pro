@@ -58,7 +58,32 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "silk_over_copper|79671207|57700000|291d2ee1-2fe2-4396-8b80-63e62f5d2d1e|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "silk_over_copper|81271888|110368614|11eda324-9d97-4130-a2f3-5ddc9933a73c|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "silk_over_copper|81284921|149345401|8791e3fa-db6f-4e5b-be9b-a8ef08b67659|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "silk_over_copper|81284921|170345401|0377c8af-1a52-4ebd-8592-970232a19e5a|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "silk_over_copper|81284921|89345401|e096b296-4c07-436e-8486-7047768e1be7|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "silk_over_copper|86171207|57700000|ec739e8e-7eae-4d62-835e-c6d7c3e010cd|00000000-0000-0000-0000-000000000000",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -510,8 +535,18 @@
     "meta": {
       "version": 4
     },
-    "net_colors": null,
-    "netclass_assignments": null,
+    "net_colors": {
+      "+12V": "rgb(255, 153, 0)",
+      "-12V": "rgb(0, 255, 0)"
+    },
+    "netclass_assignments": {
+      "Net-(D1-A)": [
+        "Power"
+      ],
+      "Net-(D2-K)": [
+        "Power"
+      ]
+    },
     "netclass_patterns": [
       {
         "netclass": "Power",
