@@ -91,7 +91,7 @@
 			(layerselection 0x00000000_00000000_55555555_5755f5ff)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
 			(disableapertmacros no)
-			(usegerberextensions no)
+			(usegerberextensions yes)
 			(usegerberattributes yes)
 			(usegerberadvancedattributes yes)
 			(creategerberjobfile yes)
@@ -120,12 +120,12 @@
 			(hidednponfab no)
 			(sketchdnponfab yes)
 			(crossoutdnponfab yes)
-			(subtractmaskfromsilk no)
+			(subtractmaskfromsilk yes)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "Gerbers/")
 		)
 	)
 	(net 0 "")
@@ -24046,8 +24046,8 @@
 		)
 	)
 	(gr_rect
-		(start 54.5 213.25)
-		(end 64.5 215.25)
+		(start 54.8 213.25)
+		(end 64.8 215.25)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -24287,8 +24287,8 @@
 		(layer "User.9")
 		(uuid "00a9661b-bc4e-493a-9a57-d5b24a34753b")
 	)
-	(gr_text "Mk1.0 - Month Year"
-		(at 59.25 216.25 0)
+	(gr_text "Mk1.0 - March 2025"
+		(at 59.55 216.25 0)
 		(layer "B.SilkS")
 		(uuid "b8e4add2-3a99-4283-8ca5-566719c3b3b5")
 		(effects
