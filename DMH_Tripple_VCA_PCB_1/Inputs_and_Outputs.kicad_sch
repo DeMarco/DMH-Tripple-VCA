@@ -5160,7 +5160,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "220R"
+		(property "Value" "1k"
 			(at 182.88 58.4199 0)
 			(effects
 				(font
@@ -5213,8 +5213,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Potentiometer_US")
-		(at 146.05 152.4 0)
-		(mirror y)
+		(at 146.05 152.4 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5222,7 +5221,7 @@
 		(dnp no)
 		(uuid "3784ec9c-e85a-463e-bfbe-5da18a71d2fd")
 		(property "Reference" "RV5"
-			(at 148.59 151.1299 0)
+			(at 148.59 153.6701 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5231,7 +5230,7 @@
 			)
 		)
 		(property "Value" "100k"
-			(at 148.59 153.6699 0)
+			(at 148.59 151.1301 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6073,7 +6072,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "220R"
+		(property "Value" "1k"
 			(at 182.88 210.8199 0)
 			(effects
 				(font
@@ -6341,8 +6340,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Potentiometer_US")
-		(at 146.05 76.2 0)
-		(mirror y)
+		(at 146.05 76.2 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6350,7 +6348,7 @@
 		(dnp no)
 		(uuid "7fab13cd-f898-4a04-bb82-137d757225d5")
 		(property "Reference" "RV4"
-			(at 148.59 74.9299 0)
+			(at 148.59 77.4701 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6359,7 +6357,7 @@
 			)
 		)
 		(property "Value" "100k"
-			(at 148.59 77.4699 0)
+			(at 148.59 74.9301 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6962,7 +6960,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "220R"
+		(property "Value" "1k"
 			(at 182.88 134.6199 0)
 			(effects
 				(font
@@ -7179,7 +7177,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "330R"
+		(property "Value" "1k"
 			(at 187.96 220.9799 0)
 			(effects
 				(font
@@ -7232,8 +7230,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Potentiometer_US")
-		(at 146.05 228.6 0)
-		(mirror y)
+		(at 146.05 228.6 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7241,7 +7238,7 @@
 		(dnp no)
 		(uuid "b9a21c3f-d91b-468f-9d3f-b0ce8be93ac5")
 		(property "Reference" "RV6"
-			(at 148.59 227.3299 0)
+			(at 148.59 229.8701 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7250,7 +7247,7 @@
 			)
 		)
 		(property "Value" "100k"
-			(at 148.59 229.8699 0)
+			(at 148.59 227.3301 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7409,7 +7406,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "330R"
+		(property "Value" "1k"
 			(at 187.96 68.5799 0)
 			(effects
 				(font
@@ -7847,7 +7844,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "330R"
+		(property "Value" "1k"
 			(at 187.96 144.7799 0)
 			(effects
 				(font
